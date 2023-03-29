@@ -32,8 +32,6 @@ Random Forest Has Accuracy Of 91%
 
 KNN Has Accuracy Of 84%
 
-Naive Bayes Has Accuracy Of 62%
-
 SVM Has Accuracy Of 77%
 
 From Above We Can Conclude That Random Forest Is The Best Fitted Model To Our Data.
